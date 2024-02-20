@@ -22,13 +22,13 @@ While the Big Three reign supreme, other languages offer specialized skills:
 
 **JavaScript**: The web's lingua franca, JavaScript extends its reach to data science through libraries like TensorFlow.js. This allows you to build interactive data visualizations and web-based applications, bringing your insights to life. Imagine JavaScript as the bridge between data and engaging user experiences.
 
-Choosing Your Path: Consider These Factors
+**Choosing Your Path: Consider These Factors**
 
 Before diving in, consider these questions:
 
 **What are your learning goals?** Do you want a general-purpose language like Python or a specialized tool like R?
 **What type of data will you work with?** Large datasets might require Java/Scala, while smaller ones might be handled by Python or R.
-What tools and libraries are you interested in? Each language has its own ecosystem, so explore what aligns with your interests.
+**What tools and libraries are you interested in?** Each language has its own ecosystem, so explore what aligns with your interests.
 Remember, the best language is the one that empowers you to solve problems effectively and efficiently. Experiment, explore, and find the perfect fit for your data science journey!
 
 **Additional Resources:**
